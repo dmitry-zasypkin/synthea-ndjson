@@ -1,0 +1,1 @@
+powershell -file .\patch-synthea-ndjsons.ps1 %1

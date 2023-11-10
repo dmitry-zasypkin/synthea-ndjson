@@ -1,0 +1,1 @@
+java -jar synthea-with-dependencies.jar Massachusetts -p 1000 --exporter.fhir.bulk_data=true --exporter.fhir.included_resources=Patient,Encounter,Location,Organization,Practitioner,PractitionerRole,Condition,Observation,AllergyIntolerance,Immunization,Procedure,MedicationAdministration,MedicationRequest,Medication
